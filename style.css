@@ -1,0 +1,21 @@
+body {
+    background-color:#d6d6e9 ;
+    display :flex;
+    flex-direction : column ;
+    justify-content : center ;
+    align-items : center ;
+    height: 100vh;
+    width: 100%;
+    margin :0;
+    color: #9b6aff;
+}
+
+button {
+    font-size:1.2em;
+    padding: 5px 20px;
+    border-radius: 5px;
+    border : 2px solid #40e0ffea;
+    background-color: transparent;
+    font-weight: bold;
+    color: #9180ff;
+}
